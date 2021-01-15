@@ -1,0 +1,44 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(öíéÊøÿÿÿÿ8ÿúâ¬ğ.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(³¹Ùïûÿÿÿÿ8ÿúâ¬ğ.
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(ûÖè¸8ÿúâ¬ğ.
+H
+java:S1659"+Declare "nadjiGradUpit" on a separate line.(Ø¸Í»8ÿúâ¬ğ.
+Z	java:S106a"9Replace this use of System.out or System.err by a logger.(öíéÊøÿÿÿÿ8ÿúâ¬ğ.
+K
+java:S3010")Remove this assignment of "dbConnection".(ÆŞñÚşÿÿÿÿ8ÿúâ¬ğ.
+[	java:S106¬"9Replace this use of System.out or System.err by a logger.(ÔÃÃüÿÿÿÿ8ÿúâ¬ğ.
+[	java:S106½"9Replace this use of System.out or System.err by a logger.(²•Ïùÿÿÿÿ8ÿúâ¬ğ.
+W
+java:S1141K"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÿúâ¬ğ.
+H
+java:S1659"+Declare "dodajGradUpit" on a separate line.(Ø¸Í»8ÿúâ¬ğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õ¤¬Şúÿÿÿÿ8ÿúâ¬ğ.
+d
+java:S2095>"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡É±‰8ÿúâ¬ğ.
+i
+java:S2095\"GUse try-with-resources or close this "Statement" in a "finally" clause.(ĞÆ¡õüÿÿÿÿ8ÿúâ¬ğ.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(öíéÊøÿÿÿÿ8ÿúâ¬ğ.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¬‡÷Îùÿÿÿÿ8ÿúâ¬ğ.
+[	java:S106Ì"9Replace this use of System.out or System.err by a logger.(¹åÜ—úÿÿÿÿ8ÿúâ¬ğ.
+V	java:S106ß"9Replace this use of System.out or System.err by a logger.(ô±ÇÈ8ÿúâ¬ğ.
+i
+java:S2095i"GUse try-with-resources or close this "Statement" in a "finally" clause.(ë§”£ûÿÿÿÿ8ÿúâ¬ğ.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(½Ì«¾8ÿúâ¬ğ.
+V	java:S106ê"9Replace this use of System.out or System.err by a logger.(¹Ó´¾8ÿúâ¬ğ.
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(öíéÊøÿÿÿÿ8ÿúâ¬ğ.
+j
+java:S2095·"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÿ¤¶—şÿÿÿÿ8ÿúâ¬ğ.
+J
+java:S1659"-Declare "nadjiDrzavuUpit" on a separate line.(ıêùÒ8ÿúâ¬ğ.
+K
+java:S1659".Declare "izmijeniGradUpit" on a separate line.(Ø¸Í»8ÿúâ¬ğ.
+i
+java:S2095L"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ü«¢Âûÿÿÿÿ8ÿúâ¬ğ.
+I
+java:S1659",Declare "glavniGradUpit" on a separate line.(Ø¸Í»8ÿúâ¬ğ.
+K
+java:S1659".Declare "obrisiDrzavuUpit" on a separate line.(ıêùÒ8ÿúâ¬ğ.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(öíéÊøÿÿÿÿ8ÿúâ¬ğ.
+’
+java:S1319r"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(†«œ¤øÿÿÿÿ8ÿúâ¬ğ.
